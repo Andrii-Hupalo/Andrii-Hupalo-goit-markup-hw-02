@@ -1,0 +1,174 @@
+/* font-family: "Roboto", sans-serif;
+font-family: "Raleway", sans-serif; */
+/* background: #2e2f42; */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+ul,
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo .logo-part {
+  color: #2e2f42;
+  font-size: 18px;
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.contacts {
+  font-style: normal;
+}
+.contacts-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts-link:hover,
+.contacts-link:focus,
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+.portfolio-img {
+  height: 300px;
+  width: 360xp;
+}
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+.page-footer,
+
+/* solution start */
+.solution {
+  background: #2e2f42;
+}
+.solution-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.solution-button {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 10px;
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  font-size: 16px;
+}
+/* solution end */
+
+/* Features start */
+.features {
+}
+.features-title {
+  display: none;
+}
+.features-list {
+}
+.features-list-item {
+}
+.features-heading {
+  color: #2e2f42;
+  font-size: 20px;
+}
+.features-list-text {
+  font-size: 16px;
+}
+/* Features end */
+
+/* Team start */
+.team {
+}
+.team-heading {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-list-img {
+}
+.team-list-heading {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 20px;
+}
+.team-list-text {
+  text-align: center;
+  font-size: 16px;
+}
+/* Team end */
+
+/* Portfolio start */
+.portfolio {
+}
+.portfolio-heading {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-list-img {
+  width: 360px;
+  height: 300px;
+}
+.portfolio-list-heading {
+  color: #2e2f42;
+
+  font-size: 20px;
+}
+.portfolio-list-text {
+  font-size: 16px;
+}
+/* Portfolio end */
+
+/* Footer start */
+.page-footer {
+}
+.logo {
+  font-size: 18px;
+}
+.footer-logo {
+  font-size: 18px;
+}
+.logo-part {
+}
+.footer-text {
+  color: #f4f4fd;
+}
+/* Footer end */
