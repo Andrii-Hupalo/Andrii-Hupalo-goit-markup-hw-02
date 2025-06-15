@@ -1,5 +1,3 @@
-/* font-family: "Roboto", sans-serif;
-font-family: "Raleway", sans-serif; */
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -44,16 +42,14 @@ a {
 .solution-button:focus {
   background-color: #404bbf;
 }
-
-.portfolio-img {
+.portfolio-img,
+.portfolio-list-img {
   height: 300px;
-  width: 360xp;
 }
 .footer-logo .logo-part,
 .footer-text {
   color: #f4f4fd;
 }
-
 /* solution start */
 .page-footer,
 .solution {
@@ -138,9 +134,7 @@ a {
   font-size: 36px;
   color: #2e2f42;
 }
-.portfolio-list-img {
-  height: 300px;
-}
+
 .portfolio-list-heading {
   font-weight: 500;
   line-height: 1.2;
