@@ -46,7 +46,10 @@ a {
 .contacts-link:hover,
 .contacts-link:focus,
 .nav-link:hover,
-.nav-link:focus {
+.nav-link:focus,
+.solution-button:hover,
+.solution-button:focus
+{
   color: #404bbf;
 }
 
