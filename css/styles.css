@@ -106,8 +106,7 @@ a {
 .features-heading,
 .team-list-heading,
 .header-logo .logo-part,
-.nav-link,
-.portfolio-list-heading {
+.nav-link {
   color: #2e2f42;
 }
 
@@ -146,6 +145,7 @@ a {
   line-height: 1.2;
   text-transform: capitalize;
   font-size: 20px;
+  color: #2e2f42;
 }
 /* Portfolio end */
 /* optimizired font-size: 16px; start */
