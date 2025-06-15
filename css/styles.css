@@ -51,8 +51,6 @@ a {
 }
 
 .portfolio-img {
-  height: 300px;
-  width: 360xp;
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
@@ -72,16 +70,7 @@ a {
   color: #fff;
 }
 .solution-button {
-  display: flex;
-  align-items: flex-start;
   justify-content: flex-start;
-  flex-direction: row;
-  gap: 10px;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-size: 16px;
 }
@@ -91,7 +80,7 @@ a {
 .features {
 }
 .features-title {
-  display: none;
+  text-decoration: none;
 }
 .features-list {
 }
@@ -144,8 +133,6 @@ a {
 .portfolio-list-item {
 }
 .portfolio-list-img {
-  width: 360px;
-  height: 300px;
 }
 .portfolio-list-heading {
   color: #2e2f42;
