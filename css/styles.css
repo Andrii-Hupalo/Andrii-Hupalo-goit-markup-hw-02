@@ -27,6 +27,7 @@ a {
 .nav-link {
   font-weight: 500;
   color: #2e2f42;
+  font-size: 16px;
 }
 .contacts {
   font-style: normal;
@@ -85,7 +86,7 @@ a {
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
 }
 /* solution end */
 
@@ -97,10 +98,6 @@ a {
 }
 .features-title {
   display: none;
-}
-.features-list {
-}
-.features-list-item {
 }
 .features-heading {
   color: #2e2f42;
@@ -118,12 +115,8 @@ a {
   line-height: 1.11;
   text-transform: capitalize;
 }
-.team-list {
-}
 .team-list-item {
   background-color: #ffffff;
-}
-.team-list-img {
 }
 .team-list-heading {
   font-weight: 500;
@@ -146,10 +139,7 @@ a {
   text-align: center;
   font-size: 36px;
 }
-.portfolio-list {
-}
-.portfolio-list-item {
-}
+
 .portfolio-list-img {
   height: 300px;
 }
