@@ -52,6 +52,11 @@ a {
 {
   color: #404bbf;
 }
+.solution-button:hover,
+.solution-button:focus {
+  background-color: #404BBF;
+}
+
 
 .portfolio-img {
   height: 300px;
@@ -79,7 +84,7 @@ a {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff
+  color: #ffffff;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
